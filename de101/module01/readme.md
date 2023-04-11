@@ -1,7 +1,13 @@
-# Homework module 01
+# Домашнее задание module 01
 
-## Excel dashboard
+## I. Superstore dashboard
 
-## Scheme of architecture / draw.io
+В Excel показалось делать скучно, поэтому задание было выполнено на Python, библиотека Streamlit.
+Ссылка на задеплоенный дэшборд: https://superstore-dashboard-97qq.onrender.com
+Открывается долго (около 2 минут), так как сделано на бесплатном сервисе render.com
+![dashboard](/screenshots/dashboard.jpeg)
 
-## End
+
+
+## II. Схема архитектуры аналитического решения
+![scheme](/screenshots/scheme.jpeg)
