@@ -8,7 +8,7 @@
 
 - **[Module02: Базы данных и SQL](https://github.com/VladimirAmninov/datalearn/tree/main/de101/module02)**
 
-Познакомился с базами данных, DWH, DataLake, модели данных (Kimball/Inmon), установил базу данных `PostgreSQL` на локальном компьютере под `Ubuntu`, развернул базу данных `PostgreSQL` в `AWS` и загрузил в них данные, согласно физической схеме, созданной в `SQLdbm`. Построен дэшборд в `Google Looker Studio` с подключением к облачной базе данных `AWS`.
+Познакомился с базами данных, DWH, DataLake, модели данных (Kimball/Inmon), установил базу данных `PostgreSQL` на локальном компьютере под `Ubuntu`, развернул базу данных `PostgreSQL` в `AWS` и загрузил в них данные, согласно физической схеме, созданной в `SQLdbm`. Построил дэшборд в `Google Looker Studio` с подключением к облачной базе данных `AWS`.
 
 ##UNDER CONSTRUCTION
 - **Module03**
