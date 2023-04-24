@@ -46,12 +46,12 @@
 Подключение к локальной БД и облачной идентичны - необходимо выбрать подключение PostgreSQL и указать хост (для локальной - localhost, для облачной - скопировать ссылку из сервиса), имя БД, юзера и пароль.
 Внесение данных также идентично. Скрипты для наполнения базы:
 Схема **stg**:
-* [orders.sql]()
-* [people.sql]()
-* [returns.sql]()
+* [orders.sql](https://github.com/VladimirAmninov/datalearn/blob/main/de101/module02/scripts/orders.sql)
+* [people.sql](https://github.com/VladimirAmninov/datalearn/blob/main/de101/module02/scripts/people.sql)
+* [returns.sql](https://github.com/VladimirAmninov/datalearn/blob/main/de101/module02/scripts/returns.sql)
 
 Схема **dw**
-* [from_stg_to_dw.sql]()
+* [from_stg_to_dw.sql](https://github.com/VladimirAmninov/datalearn/blob/main/de101/module02/scripts/from_stg_to_dw.sql)
 
 
 # III. Построение дэшборда в Google Looker Studio
